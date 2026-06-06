@@ -1,4 +1,4 @@
-# Leverage-holdings-cooperative-society
+
 # Leverage Holdings Multipurpose Cooperative Society
 
 ## About
